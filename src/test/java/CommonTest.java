@@ -4,6 +4,6 @@
  */
 public class CommonTest {
     public static void main(String[] args) {
-        System.out.println("===branch123===");
+        System.out.println("===branch1===");
     }
 }
